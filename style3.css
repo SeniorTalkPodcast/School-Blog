@@ -133,3 +133,8 @@ body {
     height: 100%;
     object-fit: cover;
 }
+"video/mp4": {
+    "source": "Senior Talk Podcast Episode 1",
+    "compressible": false,
+    "extensions": ["mp4","mp4v","mpg4"]
+  }
