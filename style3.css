@@ -133,3 +133,26 @@ body {
     height: 100%;
     object-fit: cover;
 }
+<a href="Encuesta.html" onclick="document.getElementById('postcast').className = 'hidden'; document.getElementById('pros').className = 'visible'; document.getElementById('cons').className = 'hidden'; return false;">Survey</a>
+Yael Donis
+16:42
+.chart {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.left-image {
+    float: left;
+    margin-right: 20px;
+    width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.right-image {
+    float: right;
+    margin-left: 20px;
+    width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+}
