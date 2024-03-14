@@ -18,7 +18,17 @@ body {
     background-repeat: no-repeat;
     background-position: left top; 
 }
-
+.header2 {
+    background-color: #f13636;
+    color: #faf9f9;
+    padding: 10px;
+    text-align: center;
+    position: relative; 
+    overflow: hidden; 
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: left top; 
+}
 .header .overlay {
     position: absolute;
     top: 0;
