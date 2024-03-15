@@ -72,7 +72,12 @@ body {
     text-align: center;
     margin-top: 50px;
 }
-
+.article {
+    font-family: "Palatino";
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
 .Chapter1 .article {
     font-family: "Palatino";
     margin: 20px;
@@ -95,6 +100,11 @@ body {
     width: 100%;
     height: auto;
     margin-right: 20px;
+}
+.author {
+    font-style: italic;
+    margin-top: 10px;
+    text-align: right;
 }
 .Chapter1 .author {
     font-style: italic;
